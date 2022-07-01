@@ -1,0 +1,8 @@
+﻿  Checkerscpp.cpp
+c:\users\rmham\desktop\final\checkers\checkers\checkerscpp.cpp(51): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\rmham\desktop\final\checkers\checkers\checkerscpp.cpp(70): warning C4244: '=': conversion from 'time_t' to 'long', possible loss of data
+c:\users\rmham\desktop\final\checkers\checkers\checkerscpp.cpp(265): warning C4244: '=': conversion from 'time_t' to 'long', possible loss of data
+c:\users\rmham\desktop\final\checkers\checkers\checkerscpp.cpp(314): warning C4552: '+': result of expression not used
+c:\users\rmham\desktop\final\checkers\checkers\checkerscpp.cpp(339): warning C4552: '+': result of expression not used
+c:\users\rmham\desktop\final\checkers\checkers\checkerscpp.cpp(403): warning C4244: '=': conversion from 'time_t' to 'long', possible loss of data
+  Checkers.vcxproj -> C:\Users\rmham\Desktop\final\Checkers\Debug\Checkers.exe
